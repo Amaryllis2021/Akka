@@ -1,7 +1,7 @@
 # Akka
-AKKA TECHNOLOGIES  As a global leader in engineering consulting and R&amp;D services, AKKA supports the world's leading industry players in their digital transformation and throughout their entire product life cycle.  Let's analyze AKKA's stocks and learn how to use Kaleido to generate PDF documents.
+AKKA TECHNOLOGIES  
 
-
+As a global leader in engineering consulting and R&amp;D services, AKKA supports the world's leading industry players in their digital transformation and throughout their entire product life cycle.  Let's analyze AKKA's stocks and learn how to use Kaleido to generate PDF documents.
 
 **Kaleido Cross Platform Library**
 Kaleido is an open-source cross-platform library designed for generating static images (e.g., png, svg, pdf, etc.) for web-based visualization libraries with a focus on reducing external dependencies. 
